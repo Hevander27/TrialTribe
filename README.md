@@ -6,22 +6,22 @@
 
 ### Introduction
 
-TrialTribe ("we," "our," or "app") is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection and usage.
+TrialTribe is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection and usage.
 
 ### Information Collection
 
 **We do not collect any personal data or information from our users.**
 
 TrialTribe is designed with your privacy in mind. The app functions by:
-- Accessing publicly available clinical trial data from ClinicalTrials.gov
+- Accessing publicly available clinical trial data 
 - Processing all search queries locally within the app
 - Storing any bookmarked studies only on your device
 - Not tracking your usage, searches, or interactions with the app
 
 ### Third-Party Services
 
-TrialTribe accesses the ClinicalTrials.gov API to retrieve publicly available information about clinical trials. This interaction:
-- Does not share any of your personal information with ClinicalTrials.gov
+TrialTribe accesses the APIs to retrieve publicly available information about clinical trials. This interaction:
+- Does not share any of your personal information with the various APIs used
 - Only retrieves publicly available data
 - Does not track your search history on our servers
 
@@ -47,4 +47,4 @@ We may update our Privacy Policy from time to time. Any changes will be reflecte
 ### Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-[Hevander27@gmail.com]
+[trialtribe2025@gmail.com]
